@@ -9,7 +9,7 @@
 飞控: px4  
 
 
-| Syntax | Description | 价格
+| 设备 | 型号 | 价格
 | --- | ----------- |---------- |
 | Header | Title | sss|
 | Paragraph | Text |sssss|
