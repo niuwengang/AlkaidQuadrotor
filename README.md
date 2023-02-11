@@ -11,8 +11,8 @@
 | 飞控 | Pixhawk4 |#####|
 
 ## 软件
-ubuntu20.04  
-Ros1 Noetic
+ubuntu 18.04
+Ros1 Melodic
 
 
 ## 版本
