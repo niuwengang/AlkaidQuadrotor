@@ -43,6 +43,10 @@ v4.0 简单自主决策
 5.Firmware 飞控等固件  
 6.Docs 研发记录(遇到的问题及解决方案等)
 
-## 7.致谢  
-![]()
-<img src="./image/support.jpg"  width="100" height="150"  />
+## 7.致谢   
+
+## 8.赞助
+
+<img src="./image/support.jpg"  width="120" height="150"  />
+
+欢迎为本项目提供宝贵的资金支持~
